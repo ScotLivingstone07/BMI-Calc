@@ -1,0 +1,22 @@
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.exe.config
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.exe
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.pdb
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.xml
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.vbprojResolveAssemblyReference.cache
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.Form1.resources
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.Resources.resources
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.vbproj.GenerateResource.Cache
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.exe
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.xml
+c:\users\liv15112735\documents\visual studio 2015\Projects\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.pdb
+H:\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.exe.config
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.exe
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.xml
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.pdb
+H:\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.exe
+H:\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.pdb
+H:\proj_BMICalc\proj_BMICalc\bin\Debug\proj_BMICalc.xml
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.vbprojResolveAssemblyReference.cache
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.Form1.resources
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.Resources.resources
+H:\proj_BMICalc\proj_BMICalc\obj\Debug\proj_BMICalc.vbproj.GenerateResource.Cache
